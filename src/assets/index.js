@@ -1,3 +1,4 @@
+// importing all the images 
 import logo from "./images/logo.png";
 import bannerImg from "./images/bannerImg.png";
 import projectOne from "./images/projects/projectOne.jpg";
@@ -8,6 +9,7 @@ import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 
+//now we can access photos from here 
 export {
   logo,
   bannerImg,

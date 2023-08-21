@@ -20,7 +20,7 @@ const Navbar = () => {
               className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300"
               key={_id}
             >
-              <Link
+              <Link   //for scrolling 
                 activeClass="active"
                 to={link}
                 spy={true}
